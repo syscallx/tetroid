@@ -1,2 +1,2 @@
-# tetroid
-Tetroid  - tetris like game
+# Tetroid
+Tetroid  - Tetris like game
